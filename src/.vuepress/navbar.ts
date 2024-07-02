@@ -7,7 +7,7 @@ export default navbar([
         link: "/",
     },
     {
-        text: "博文",
+        text: "博客",
         icon: "pen-to-square",
         link: "/accumulation/"
     },
@@ -18,7 +18,7 @@ export default navbar([
     },
     {
         text: "笔记",
-        icon: "pen-to-square",
+        icon: "book",
         link: "/notes/"
     },
 ]);

@@ -4,11 +4,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  // hostname: "https://mister-hope.github.io",
 
   author: {
     name: "laterya",
-    url: "https://mister-hope.com",
+    // url: "https://mister-hope.com",
   },
 
   iconAssets: "fontawesome-with-brands",
