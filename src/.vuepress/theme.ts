@@ -11,9 +11,9 @@ export default hopeTheme({
         url: "https://github.com/laterya",
     },
 
-    iconAssets: "fontawesome-with-brands",
+    iconAssets: "iconify",
 
-    logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+    logo: "logo.svg",
 
     repo: "https://github.com/laterya/my-blog",
 
@@ -68,6 +68,8 @@ export default hopeTheme({
         components: {
             components: ["Badge", "VPCard"],
         },
+
+        searchPro: true,
 
         // 此处开启了很多功能用于演示，你应仅保留用到的功能。
         mdEnhance: {
